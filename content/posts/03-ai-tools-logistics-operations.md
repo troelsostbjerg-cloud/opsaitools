@@ -40,7 +40,7 @@ o9 is the platform that gets supply chain nerds excited, and for good reason. Th
 
 **Zoho Inventory (Predictive Analytics)**
 
-[AFFILIATE: Zoho Inventory - https://www.zoho.com/inventory/]
+[**Zoho Inventory**](https://www.zoho.com/inventory/)
 
 For SMBs, Zoho Inventory's predictive analytics are surprisingly capable. It won't match Blue Yonder's sophistication, but it analyzes your sales history, identifies seasonal patterns, and recommends reorder quantities. For businesses with straightforward demand patterns, it's 80% of the value at 5% of the cost.
 
@@ -125,7 +125,7 @@ Collaborative mobile robots ("Chucks") that work alongside warehouse staff. AI o
 
 **Cin7 + Warehouse Automation**
 
-[AFFILIATE: Cin7 - https://www.cin7.com/]
+[**Cin7**](https://www.cin7.com/)
 
 Cin7's AI-driven warehouse features include intelligent order routing (which warehouse ships which order), automated pick list optimization, and predictive inventory allocation. For mid-market operations that aren't ready for robotics, this is the practical AI warehouse layer.
 

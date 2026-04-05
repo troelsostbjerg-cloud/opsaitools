@@ -33,7 +33,7 @@ I've managed supply chain projects across FMCG, pharma, and beverage — from wa
 
 ## monday.com for Supply Chain: The Visual Powerhouse
 
-[AFFILIATE: monday.com - https://www.monday.com/]
+[**monday.com**](https://www.monday.com/)
 
 monday.com wins on one thing above all else: **visual clarity**. In supply chain, where you're coordinating between procurement, warehousing, logistics, and sales — everyone needs to see the same picture. monday.com makes that picture obvious.
 
@@ -84,7 +84,7 @@ You can build dozens of these automations that keep your supply chain projects m
 
 ## ClickUp for Supply Chain: The Feature-Dense Powerhouse
 
-[AFFILIATE: ClickUp - https://www.clickup.com/]
+[**ClickUp**](https://www.clickup.com/)
 
 ClickUp is the tool that tries to be everything — and mostly succeeds. For supply chain teams that want one platform for project management, documentation, dashboards, and communication, ClickUp has the deepest feature set of the three.
 
@@ -224,7 +224,7 @@ For ongoing operational workflows (PO tracking, delivery management, issue resol
 - You need strong automations without coding
 - You're managing 5-15 concurrent supply chain projects
 
-[AFFILIATE: monday.com - https://www.monday.com/]
+[**monday.com**](https://www.monday.com/)
 
 **Choose ClickUp if:**
 - You want one tool for everything (PM, docs, dashboards, comms)
@@ -232,7 +232,7 @@ For ongoing operational workflows (PO tracking, delivery management, issue resol
 - You need deep AI capabilities
 - You're managing complex, multi-phase programs
 
-[AFFILIATE: ClickUp - https://www.clickup.com/]
+[**ClickUp**](https://www.clickup.com/)
 
 **Choose Smartsheet if:**
 - Your team lives in Excel and won't leave

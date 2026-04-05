@@ -40,7 +40,7 @@ If a tool doesn't do at least the first three, it's not automated — it's just 
 
 ## 1. Zoho Inventory — Best for Small Businesses Wanting a Full Ecosystem
 
-[AFFILIATE: Zoho Inventory - https://www.zoho.com/inventory/]
+[**Zoho Inventory**](https://www.zoho.com/inventory/)
 
 Zoho Inventory is the Swiss Army knife of inventory automation for small businesses. It doesn't do any single thing better than a dedicated specialist — but it does everything well, and it integrates seamlessly with the broader Zoho ecosystem (CRM, Books, Analytics, Commerce).
 
@@ -73,7 +73,7 @@ Small businesses doing under $5M in revenue who want inventory management that g
 
 ## 2. Cin7 — Best for Multi-Channel Mid-Market Operations
 
-[AFFILIATE: Cin7 - https://www.cin7.com/]
+[**Cin7**](https://www.cin7.com/)
 
 Cin7 is the tool you graduate to when Zoho or inFlow can't keep up. It's built for product businesses selling across multiple channels — DTC, wholesale, marketplace, retail — and it automates the entire order-to-fulfillment pipeline.
 
@@ -104,7 +104,7 @@ Product businesses doing $1M-50M in revenue with multi-channel sales. If you sel
 
 ## 3. inFlow — Best for Small Teams Who Need Simplicity
 
-[AFFILIATE: inFlow - https://www.inflowinventory.com/]
+[**inFlow Inventory**](https://www.inflowinventory.com/)
 
 inFlow is the tool that proves you don't need enterprise complexity to get real automation. It's clean, intuitive, and gets small teams from manual chaos to automated control in days, not months.
 
@@ -137,7 +137,7 @@ Teams of 1-15 people managing physical inventory. Ideal for small distributors, 
 
 ## 4. Sortly — Best for Visual and Field-Based Inventory
 
-[AFFILIATE: Sortly - https://www.sortly.com/]
+[**Sortly**](https://www.sortly.com/)
 
 Sortly takes a completely different approach. Instead of SKU-centric data tables, it builds inventory around **photos and visual organization**. Sound gimmicky? It's not — for certain use cases, it's transformative.
 
@@ -170,7 +170,7 @@ Field operations, construction, facilities management, IT asset tracking, and an
 
 ## 5. Fishbowl — Best for Manufacturing Operations with QuickBooks
 
-[AFFILIATE: Fishbowl - https://www.fishbowlinventory.com/]
+[**Fishbowl**](https://www.fishbowlinventory.com/)
 
 Fishbowl has been the go-to QuickBooks inventory add-on for years, and the 2026 version has added meaningful automation. If your accounting lives in QuickBooks and you need serious manufacturing inventory management, Fishbowl bridges that gap.
 
