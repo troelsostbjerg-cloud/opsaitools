@@ -1,0 +1,13 @@
+baseURL = 'https://troelsostbjerg-cloud.github.io/opsaitools/'
+languageCode = 'en-us'
+title = 'OpsAI Tools'
+theme = 'ananke'
+
+[params]
+  description = "AI-powered tools for modern supply chain & logistics"
+  author = "Troels Østbjerg"
+  featured_image = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
