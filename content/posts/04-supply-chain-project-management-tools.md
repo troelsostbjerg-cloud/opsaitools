@@ -80,6 +80,8 @@ You can build dozens of these automations that keep your supply chain projects m
 - **Automations cap on lower tiers** — 250 automations/month on Standard can run out fast with busy boards
 - **Integration depth** — Connects to many tools but integrations are sometimes shallow (sync a status, but not complex data)
 
+<a href="https://www.monday.com/" class="cta-button" rel="nofollow sponsored" target="_blank">Try monday.com Free for 14 Days →</a>
+
 ---
 
 ## ClickUp for Supply Chain: The Feature-Dense Powerhouse
@@ -130,6 +132,8 @@ ClickUp's automations are the most flexible:
 - **Steep learning curve** — The depth is a double-edged sword. New team members take 2-4 weeks to get comfortable
 - **Performance with large projects** — Boards with 500+ tasks can feel sluggish
 - **Feature overload** — You'll use maybe 40% of what ClickUp offers. The rest creates noise and decision fatigue
+
+<a href="https://www.clickup.com/" class="cta-button secondary" rel="nofollow sponsored" target="_blank">Try ClickUp Free →</a>
 
 ---
 

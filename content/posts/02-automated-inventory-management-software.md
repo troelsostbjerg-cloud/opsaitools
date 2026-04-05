@@ -69,6 +69,8 @@ The automation builder (called "Workflow Rules") lets you create multi-step auto
 
 Small businesses doing under $5M in revenue who want inventory management that grows with them. Especially strong if you're already in the Zoho ecosystem.
 
+<a href="https://www.zoho.com/inventory/" class="cta-button" rel="nofollow sponsored" target="_blank">Try Zoho Inventory Free →</a>
+
 ---
 
 ## 2. Cin7 — Best for Multi-Channel Mid-Market Operations
@@ -99,6 +101,8 @@ The AI demand forecasting is genuinely useful — not a marketing buzzword. It i
 ### Who It's For
 
 Product businesses doing $1M-50M in revenue with multi-channel sales. If you sell through 3+ channels and have more than one warehouse, Cin7 is probably your tool.
+
+<a href="https://www.cin7.com/" class="cta-button secondary" rel="nofollow sponsored" target="_blank">Start Cin7 Free Trial →</a>
 
 ---
 
@@ -132,6 +136,8 @@ The mobile app is best-in-class for small operations. Walk around your warehouse
 ### Who It's For
 
 Teams of 1-15 people managing physical inventory. Ideal for small distributors, e-commerce brands, and light manufacturing.
+
+<a href="https://www.inflowinventory.com/" class="cta-button" rel="nofollow sponsored" target="_blank">Try inFlow Free →</a>
 
 ---
 

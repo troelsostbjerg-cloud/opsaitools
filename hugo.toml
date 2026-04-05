@@ -1,13 +1,51 @@
 baseURL = 'https://troelsostbjerg-cloud.github.io/opsaitools/'
 languageCode = 'en-us'
-title = 'OpsAI Tools'
+title = 'OpsAI Tools — AI-Powered Tools for Supply Chain & Operations'
 theme = 'ananke'
 
 [params]
-  description = "AI-powered tools for modern supply chain & logistics"
+  description = "Expert reviews of AI-powered tools for supply chain management, inventory automation, logistics optimization, and operations. Written by an operations professional."
   author = "Troels Østbjerg"
   featured_image = ""
+  site_logo = ""
+  text_color = ""
+  favicon = ""
+  custom_css = ["css/custom.css"]
 
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "All Articles"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "Supply Chain"
+    url = "/categories/ai-tools/"
+    weight = 3
+  [[menu.main]]
+    name = "Inventory"
+    url = "/categories/inventory-management/"
+    weight = 4
+  [[menu.main]]
+    name = "Project Management"
+    url = "/categories/project-management/"
+    weight = 5
