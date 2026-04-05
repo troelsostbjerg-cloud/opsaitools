@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on OpsAI Tools</title>
+    <link>https://troelsostbjerg-cloud.github.io/opsaitools/tags/tools/</link>
+    <description>Recent content in Tools on OpsAI Tools</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://troelsostbjerg-cloud.github.io/opsaitools/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Operations Manager&#39;s AI Stack: 7 Tools That Save 10&#43; Hours Per Week</title>
+      <link>https://troelsostbjerg-cloud.github.io/opsaitools/posts/05-operations-manager-ai-stack/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://troelsostbjerg-cloud.github.io/opsaitools/posts/05-operations-manager-ai-stack/</guid>
+      <description>&lt;h1 id=&#34;the-operations-managers-ai-stack-7-tools-that-save-10-hours-per-week&#34;&gt;The Operations Manager&amp;rsquo;s AI Stack: 7 Tools That Save 10+ Hours Per Week&lt;/h1&gt;&#xA;&lt;p&gt;Every operations manager I know has the same complaint: too much time on low-value tasks, not enough time on the work that actually moves the business. Weekly reports. Status updates. Email ping-pong with suppliers. Manually crunching data that should crunch itself.&lt;/p&gt;&#xA;&lt;p&gt;The operations manager&amp;rsquo;s AI stack in 2026 isn&amp;rsquo;t about adopting cutting-edge technology for its own sake. It&amp;rsquo;s about reclaiming 10+ hours per week from tasks that shouldn&amp;rsquo;t require a human brain — and redirecting that time toward the strategic work that does.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

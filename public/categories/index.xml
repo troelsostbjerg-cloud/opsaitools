@@ -22,5 +22,19 @@
       <guid>https://troelsostbjerg-cloud.github.io/opsaitools/categories/guides/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Inventory-Management</title>
+      <link>https://troelsostbjerg-cloud.github.io/opsaitools/categories/inventory-management/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://troelsostbjerg-cloud.github.io/opsaitools/categories/inventory-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project-Management</title>
+      <link>https://troelsostbjerg-cloud.github.io/opsaitools/categories/project-management/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://troelsostbjerg-cloud.github.io/opsaitools/categories/project-management/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
