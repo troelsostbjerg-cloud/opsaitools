@@ -1,0 +1,58 @@
+/* CTA buttons for affiliate links */
+.cta-button {
+  display: inline-block;
+  background: #2563eb;
+  color: #fff !important;
+  padding: 12px 28px;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.2s;
+  margin: 8px 4px;
+}
+.cta-button:hover {
+  background: #1d4ed8;
+  text-decoration: none;
+  color: #fff !important;
+}
+.cta-button.secondary {
+  background: #059669;
+}
+.cta-button.secondary:hover {
+  background: #047857;
+}
+
+/* Comparison table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+}
+th {
+  background: #1e293b;
+  color: #f8fafc;
+  padding: 12px 16px;
+  text-align: left;
+}
+td {
+  padding: 10px 16px;
+  border-bottom: 1px solid #e2e8f0;
+}
+tr:hover td {
+  background: #f1f5f9;
+}
+
+/* Article content */
+.content p {
+  line-height: 1.7;
+}
+
+/* Affiliate disclosure */
+.affiliate-disclosure {
+  background: #f8fafc;
+  border-left: 3px solid #94a3b8;
+  padding: 12px 16px;
+  font-size: 0.85em;
+  color: #64748b;
+  margin: 2em 0;
+}
