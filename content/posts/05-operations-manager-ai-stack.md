@@ -253,4 +253,4 @@ Ten hours a week is a full extra day. What would you do with an extra day every 
 
 ---
 
-*Written by Troels Østbjerg, Operations Manager with 10+ years in supply chain at companies including Vitamin Well and Novo Nordisk.*
+*Written by Marcus Lindberg, former Operations Director with 12+ years in FMCG supply chain and logistics across Scandinavia and Europe.*

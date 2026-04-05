@@ -5,7 +5,7 @@ theme = 'ananke'
 
 [params]
   description = "Expert reviews of AI-powered tools for supply chain management, inventory automation, logistics optimization, and operations. Written by an operations professional."
-  author = "Troels Østbjerg"
+  author = "Marcus Lindberg"
   featured_image = ""
   site_logo = ""
   text_color = ""
